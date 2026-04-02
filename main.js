@@ -1,1 +1,1 @@
-console.log('Student 3: Updated script in main.js');
+console.log('Student 3: Updated script in main.js twice');
